@@ -8,7 +8,7 @@ Bu Altyapı yousecs Tarafından Yapılmıştır.
 **-npm i discord.js@12.5.3** Yazın konsola ve bekleyin
 **- gerekli tüm modülleri npm i Modül_İsmi şeklinde indirin 
  
-**Main Dosyasında Bulunan ``Client.login('TOKEN')`` yerine tokenininzi girin
+**Main Dosyasında Bulunan** ``Client.login('TOKEN')`` **yerine tokenininzi girin**
 
 Botunuzu başlatın:
 node yousecs.js
