@@ -1,0 +1,16 @@
+{
+  "name": "yousecs-botlist",
+  "version": "1.0.1",
+  "description": "",
+  "main": "yousecs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yousecs",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security",
+    "wio.db": "^4.0.22"
+  }
+}
