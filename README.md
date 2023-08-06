@@ -1,5 +1,7 @@
 # Yousecs Botlist Altyapı
 
+# Altyapının İzinsiz Paylaşılması Dahilinde Gerekli İşlenmler Uygulanacaktır
+
 Bu Altyapı yousecs Tarafından Yapılmıştır.
 ## Kurulum
 
